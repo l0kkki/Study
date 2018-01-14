@@ -1,0 +1,6 @@
+D:\ProjectCPP\AlgLab2\AlgLab2\bin\Debug\AlgLab2.exe.config
+D:\ProjectCPP\AlgLab2\AlgLab2\bin\Debug\AlgLab2.exe
+D:\ProjectCPP\AlgLab2\AlgLab2\bin\Debug\AlgLab2.pdb
+D:\ProjectCPP\AlgLab2\AlgLab2\obj\Debug\AlgLab2.csprojResolveAssemblyReference.cache
+D:\ProjectCPP\AlgLab2\AlgLab2\obj\Debug\AlgLab2.exe
+D:\ProjectCPP\AlgLab2\AlgLab2\obj\Debug\AlgLab2.pdb

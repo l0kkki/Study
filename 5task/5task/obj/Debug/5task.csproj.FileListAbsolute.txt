@@ -1,0 +1,6 @@
+D:\ProjectCPP\5task\5task\bin\Debug\5task.exe.config
+D:\ProjectCPP\5task\5task\bin\Debug\5task.exe
+D:\ProjectCPP\5task\5task\bin\Debug\5task.pdb
+D:\ProjectCPP\5task\5task\obj\Debug\5task.csprojResolveAssemblyReference.cache
+D:\ProjectCPP\5task\5task\obj\Debug\5task.exe
+D:\ProjectCPP\5task\5task\obj\Debug\5task.pdb

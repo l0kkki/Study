@@ -1,0 +1,6 @@
+D:\ProjectCPP\6task\6task\bin\Debug\6task.exe.config
+D:\ProjectCPP\6task\6task\bin\Debug\6task.exe
+D:\ProjectCPP\6task\6task\bin\Debug\6task.pdb
+D:\ProjectCPP\6task\6task\obj\Debug\6task.csprojResolveAssemblyReference.cache
+D:\ProjectCPP\6task\6task\obj\Debug\6task.exe
+D:\ProjectCPP\6task\6task\obj\Debug\6task.pdb
